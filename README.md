@@ -1,4 +1,3 @@
-
 Welcome to My Portfolio!
 
 Hi, I'm Daniel John, a front-end developer passionate about creating clean and functional web applications.
